@@ -4,13 +4,4 @@ A simple network simulation built using **Cisco Packet Tracer**. The project con
 
 * **Key Features:** Dual-LAN connectivity, Router Configuration, IP Addressing.
 
-### Project Screenshots
 
-**1. Network Topology**
-![Network Topology](topology.png)
-
-**2. Connectivity Verification (Ping)**
-![Ping Result](ping.png)
-
-**3. Router Configuration**
-![Router Config](config.png)
